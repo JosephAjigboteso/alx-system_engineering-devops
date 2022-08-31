@@ -3,5 +3,4 @@ script 1 is to display content list of current directory
 script 2 is to change working directory to home directory
 script 3 is to display current directory content in long format
 script 4 is to display current directory contents including hidden files starting with (.) in long format
-
-
+script 5 is to display current directory contents in long format with group and user ID displayed numerically and hidden files starting with . 
