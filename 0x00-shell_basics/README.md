@@ -1,0 +1,1 @@
+script 16 delete all files in current working directory with 
