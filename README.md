@@ -1,0 +1,1 @@
+ This repository is meant for shell basic project on alx .
