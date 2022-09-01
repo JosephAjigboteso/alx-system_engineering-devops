@@ -8,4 +8,5 @@ script 6 creates a directory named my_first_ddirectory in /tmp/directory
 script 7 move file betty from tmp to tmp/my_first_directory
 script 8 delete file betty
 script 9 delete my_first_directory in tmp
-script 10 change working directory to previous one 
+script 10 change working directory to previous one
+script 11 to list all files hidden even those with names beginning with period character and boot directory in long format
