@@ -6,3 +6,4 @@ script 4 is to display current directory contents including hidden files startin
 script 5 is to display current directory contents in long format with group and user ID displayed numerically and hidden files starting with .
 script 6 creates a directory named my_first_ddirectory in /tmp/directory
 script 7 move file betty from tmp to tmp/my_first_directory
+script 8 delete file betty
