@@ -7,4 +7,5 @@ script 5 is to display current directory contents in long format with group and 
 script 6 creates a directory named my_first_ddirectory in /tmp/directory
 script 7 move file betty from tmp to tmp/my_first_directory
 script 8 delete file betty
-script 9 delete my_first_directory in tmp 
+script 9 delete my_first_directory in tmp
+script 10 change working directory to previous one 
