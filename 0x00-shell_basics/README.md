@@ -10,3 +10,4 @@ script 8 delete file betty
 script 9 delete my_first_directory in tmp
 script 10 change working directory to previous one
 script 11 to list all files hidden even those with names beginning with period character and boot directory in long format
+script 12 command to print file "imamafile" in tmp directory.
