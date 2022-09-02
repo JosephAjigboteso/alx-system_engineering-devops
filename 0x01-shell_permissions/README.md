@@ -12,3 +12,4 @@ script 10: set mode of file "hello" the same as "olleh"
 script 11: execute permission for all subdirectories in current directory for owner,groups and others
 script 12 : creates a directory called my_dir with permissions 751 in working directory
 script 13: changes the group owner to school for the file "hello"
+script 14 : changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
