@@ -8,3 +8,4 @@ script 6: add execute permission to the owner and to group owner then read permi
 script 7: add execute permission to everybody
 script 8: give no permission to owner and group but give all permission to other users
 script 9: set mode of file hello as given in task
+script 10: set mode of file "hello" the same as "olleh"
