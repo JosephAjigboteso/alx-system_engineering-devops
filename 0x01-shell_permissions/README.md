@@ -10,3 +10,4 @@ script 8: give no permission to owner and group but give all permission to other
 script 9: set mode of file hello as given in task
 script 10: set mode of file "hello" the same as "olleh"
 script 11: execute permission for all subdirectories in current directory for owner,groups and others
+script 12 : creates a directory called my_dir with permissions 751 in working directory
